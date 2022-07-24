@@ -7,3 +7,5 @@ Se quito lo de color y transporte, pero se va agregar este nuevo valor
 me gustan los tacos y la hamburguesas 
 
 gustos de musica
+
+color favorio
