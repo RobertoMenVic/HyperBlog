@@ -9,3 +9,5 @@ me gustan los tacos y la hamburguesas
 gustos de musica
 
 color favorio
+
+aprendido el curso de git
