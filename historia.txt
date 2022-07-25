@@ -10,4 +10,4 @@ gustos de musica
 
 color favorio
 
-aprendido el curso de git
+aprendido el curso de git, y python nivel 2
