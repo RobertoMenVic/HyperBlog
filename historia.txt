@@ -11,3 +11,4 @@ gustos de musica
 color favorio
 
 aprendido el curso de git, y python nivel 2
+Modificando archivo Historia desde repositorio GitHub
