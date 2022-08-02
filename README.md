@@ -8,7 +8,7 @@
 *Todos los comandos de Git
 *El flujo de trabajo de GitHub
 
-Deberian de tomar el curso, y **"[Repositorio](http://https://github.com/RobertoMenVic/HyperBlog "Repositorio")"**
+Deberian de tomar el cursoo, y **"[Repositorio](http://https://github.com/RobertoMenVic/HyperBlog "Repositorio")"**
 
 
 
