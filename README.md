@@ -1,4 +1,4 @@
-# Mi Hyperblog :tw-1f528:
+# Mi Hyperblog :tw-1f603:
 
 >El curso de Git and GitHub tomado en platzi es bueno e inportante para llevar acabo una buen administracion de un proyecto y concocer el seguiminto de integracion de los colaboradores que participan en el proyecto
 
